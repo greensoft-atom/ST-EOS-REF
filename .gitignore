@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Env / secrets
+.env
+.env.*
+*.pem
+credentials.json
+
+# Node / Python (when you add code later)
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+
+/gpt_chats/**
