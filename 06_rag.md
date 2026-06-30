@@ -815,5 +815,12 @@ A: The organization — fix corpus, retrieval, prompt, or workflow; never blame 
 | [04_genai_llm.md](04_genai_llm.md) | LLM foundations — all members |
 | [05_local_llm.md](05_local_llm.md) | On-prem inference — all members |
 | **06_rag.md** | Organizational knowledge — all members |
+| [07_prompting.md](07_prompting.md) | Prompting & assistant design |
+| [08_trust_verification.md](08_trust_verification.md) | Trust & verification |
+| [09_privacy_security.md](09_privacy_security.md) | Privacy & security |
+| [10_evaluation_quality.md](10_evaluation_quality.md) | Evaluation & quality |
+| [11_agents_tools.md](11_agents_tools.md) | Agents & tools |
+| [12_serving_customers.md](12_serving_customers.md) | Support & action plan |
+| [CURRICULUM.md](CURRICULUM.md) | Master plan & facilitator todos |
 
-**After this module:** Optional deep dives (separate workshops) — hands-on eval tooling, security red-team, domain corpus design for patents/funding/policy.
+**Next in series:** [07_prompting.md](07_prompting.md). **Capstone:** [12_serving_customers.md](12_serving_customers.md) (team action plan workshop).

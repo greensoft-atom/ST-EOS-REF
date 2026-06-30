@@ -282,4 +282,10 @@ A: Helpful. If it **creates** text, verify. If it **sorts** or **scores**, check
 | [04_genai_llm.md](04_genai_llm.md) | LLM foundations — training, inference, tokens, roles |
 | [05_local_llm.md](05_local_llm.md) | Local LLM — deployment and operations |
 | [06_rag.md](06_rag.md) | RAG — documents, retrieval, citations |
-| Later sessions | Prompting, trust, privacy — see [01_concept.md](01_concept.md) |
+| [07_prompting.md](07_prompting.md) | Prompting & assistant design |
+| [08_trust_verification.md](08_trust_verification.md) | Trust, accuracy & verification |
+| [09_privacy_security.md](09_privacy_security.md) | Privacy, security & governance |
+| [10_evaluation_quality.md](10_evaluation_quality.md) | Evaluation & quality engineering |
+| [11_agents_tools.md](11_agents_tools.md) | Agents, tools & workflows |
+| [12_serving_customers.md](12_serving_customers.md) | Serving customers & action plan |
+| Later (concept) | AGI — see [02_concept_agi.md](02_concept_agi.md) |
